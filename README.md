@@ -61,7 +61,7 @@ Below is a snapshot of 10 random predictions made by the model:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Parag000/NYC-Taxi-Fare-Prediction-Using-Pyspark.git
+   git clone https://github.com/SudarshanC00/NYC-Taxi-Fare-Prediction-Using-Pyspark.git
    cd NYC-Taxi-Fare-Prediction-Using-Pyspark
    ```
 2. Install dependencies:
